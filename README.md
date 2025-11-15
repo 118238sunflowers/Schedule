@@ -44,4 +44,28 @@
     <td> 15:15 </td>
     <td> Get home & Do Work </td>
   </tr>
+   <tr> 
+    <td> 17:45 </td>
+    <td> Dinner with Fam </td>
+  </tr>
+   <tr> 
+    <td> 18:30 </td>
+    <td> Go to Ashley's </td>
+  </tr>
+   <tr> 
+    <td> 21:45 </td>
+    <td> Go Home </td>
+  </tr>
+   <tr> 
+    <td> 22:00 </td>
+    <td> Shower </td>
+  </tr>
+   <tr> 
+    <td> 22:30 </td>
+    <td> Make Tea & Read 20 Mins </td>
+  </tr>
+   <tr> 
+    <td> 23:00 </td>
+    <td> Brush Teeth & Lights Out </td>
+  </tr>
 </table>
