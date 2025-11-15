@@ -62,7 +62,7 @@
   </tr>
    <tr> 
     <td> 22:30 </td>
-    <td> Make Tea & Read 20 Mins </td>
+    <td> Make Tea & 20 Mins Screen Time </td>
   </tr>
    <tr> 
     <td> 23:00 </td>
