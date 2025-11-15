@@ -1,7 +1,7 @@
 # Schedule
 <table>
   <tr> 
-    <td>  </td>
+    <td> Time </td>
     <td> 11/18 Monday </td>
   </tr>
   <tr> 
